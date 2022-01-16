@@ -1,0 +1,156 @@
+.main-body{
+    width: 100%;
+    height: 1500px;
+    background-color: rgba(245, 237, 237, 0.993);
+}
+.box1{
+    width: 100%; 
+    height: 50px;
+    float: left;   
+}
+.button:hover{
+    background: red;
+    cursor: pointer;
+}
+.part1{
+    width: 30%;
+    height: 50px;
+    padding-left: 50px;
+    float: left;
+}
+.part2{
+    width: 55%;
+    height: 50px;
+    padding-left: 50px;
+    float: left;
+}
+.form{
+    margin-left: 150px;
+}
+.box2{
+    width: 1143px;
+    height: 431px;
+    border-radius: 3%;
+    margin-left: 94px;
+    margin-right: 80px;
+    background-image: url("assest/main.jpeg");
+    background-size: 1143px;
+
+}
+.box3{
+    width: 1000px;
+    height: 150px;
+    border-radius: 3%;
+    border: solid;
+    border-color: rgba(143, 124, 124, 0.568);
+    background-color: white;
+    margin-left: 75px;
+}
+.left{
+    width: 250px;
+    height: 150px;
+    float: left;
+    padding-left: 20px;
+}
+.center{
+    width: 300px;
+    height: 150px;
+    float: left;
+    text-align: center;
+    
+}
+.right{
+    width: 400px;
+    height: 150px;
+    float: left;
+    padding-left: 30px;
+}
+.circle1{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    float: left;
+    margin: 10px;
+    background-image: url("assest/circle1.jpg");
+    background-size: 150px;
+}
+.circle2{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    float: left;
+    margin: 10px;
+    background-image: url("assest/circle2.jpg");
+    background-size: 150px;
+}
+.circle3{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    float: left;
+    margin: 10px;
+    background-image: url("assest/circle3.jpg");
+    background-size: 150px;
+}
+.circle4{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    float: left;
+    margin: 10px;
+    background-image: url("assest/circle4.jpg");
+    background-size: 150px;
+}
+.box4{
+    width: 80%;
+    height: 300px;
+    margin-left: 10%;
+}
+.bottom1{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    float: left;
+    margin: 30px;
+    border-radius: 3%;
+    text-align: center;
+}
+.bottom2{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    float: left;
+    margin: 30px;
+    border-radius: 3%;
+    text-align: center;
+}
+.bottom3{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    float: left;
+    margin: 30px;
+    border-radius: 3%;
+    text-align: center;
+}
+.innerbox1{
+    width: 300px;
+    height: 150px;
+    background-image: url("assest/box1.jpg");
+    background-size: 300px;
+    border-radius: 3%;
+}
+.innerbox2{
+    width: 300px;
+    height: 150px;
+    background-image: url("assest/box2.jpg");
+    background-size: 300px;
+    border-radius: 3%;
+}
+.innerbox3{
+    width: 300px;
+    height: 150px;
+    background-image: url("assest/box3.webp");
+    background-size: 300px;
+    border-radius: 3%;
+}

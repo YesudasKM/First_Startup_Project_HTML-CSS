@@ -1,0 +1,24 @@
+.para1{
+    font-size: 40px;
+    color: white;
+    margin-left: 100px;
+    padding-top: 100px;
+}
+.para2{
+    font-size: 18px;
+    color: white;
+    margin-left: 100px;
+}
+.head1{
+    font-size: 28px;
+    color: green;
+    margin-left: 150px; 
+}
+.head2{
+    font-size: 50px;
+    margin-left: 500px;
+    
+}
+.h3{
+    color: red;
+}
